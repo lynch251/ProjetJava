@@ -1,2 +1,2 @@
 # ProjetJava
-Mettre en place développement en couches
+Mettre en place le développement en couches
